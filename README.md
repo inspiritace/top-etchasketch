@@ -1,1 +1,1 @@
-# top-etchasketch
+Etch-a-Sketch project created for The Odin Project using basic Javascript.
